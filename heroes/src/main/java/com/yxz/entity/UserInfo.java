@@ -6,6 +6,7 @@ public class UserInfo {
 	private String userName;
 	private String password;
 	private String extNote;
+	private java.util.Date createDate;
 	
 	public int getId() {
 		return id;
@@ -36,5 +37,11 @@ public class UserInfo {
 	}
 	public void setExtNote(String extNote) {
 		this.extNote = extNote;
+	}
+	public java.util.Date getCreateDate() {
+		return createDate;
+	}
+	public void setCreateDate(java.util.Date createDate) {
+		this.createDate = createDate;
 	}
 }
