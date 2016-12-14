@@ -1,0 +1,2 @@
+INDEX VERSION 1.127+G:\code_yxz\.metadata\.plugins\org.eclipse.jdt.core
+2673308377.index
